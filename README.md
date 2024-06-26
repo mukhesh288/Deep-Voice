@@ -1,2 +1,2 @@
 # Deep-Voice
-Upto midterm is baout familarizing with required basics.
+Upto midterm is familarizing with required theory.
